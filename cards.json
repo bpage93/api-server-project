@@ -1,0 +1,16 @@
+[
+    {
+        "cardId": "001",
+        "name": "Flame Dragon",
+        "set": "Base Set",
+        "type": "Creature",
+        "rarity": "Rare"
+    },
+    {
+        "cardId": "002",
+        "name": "Healing Light",
+        "set": "Base Set",
+        "type": "Spell",
+        "rarity": "Common"
+    }
+]
